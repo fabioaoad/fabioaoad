@@ -21,7 +21,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </br>
 </br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/movimiento.webp" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
 
 
 <!--
