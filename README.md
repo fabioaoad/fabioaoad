@@ -7,8 +7,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 ![](https://komarev.com/ghpvc/?username=fabioaoad&color=blueviolet)
 
-<p align='center'>
-</p>
+-----
 
 <img align="right" width=100px height=100px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
 
@@ -21,7 +20,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
-
+-----
 
 
 <p align="center">
@@ -32,7 +31,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </p>
 
 
-
+-----
 
 
 
