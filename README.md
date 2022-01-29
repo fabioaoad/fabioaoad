@@ -1,4 +1,7 @@
-### Hi 👋,  I'm Fabio Martín Aoad
+## Hi 👋,  I'm Fabio Martín Aoad
+
+
+I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I am characterized by my great motivation to continue honing skills and growing professionally. I fully trust in my ability to work in a group and thus carry out a successful project.
 
 <!--
 **fabioaoad/fabioaoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
