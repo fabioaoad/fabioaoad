@@ -7,7 +7,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 ![](https://komarev.com/ghpvc/?username=fabioaoad&color=blueviolet)
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 80px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 90px></h2>
 
 
 <img align="right" width=100px height=100px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
@@ -18,6 +18,11 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on ANGULAR
 - 📫 How to reach me: fabioaoad@gmail.com
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="blank"></a>
+</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
