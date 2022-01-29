@@ -14,6 +14,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 - 👯 I’m looking to collaborate on ANGULAR
 - 📫 How to reach me: fabioaoad@gmail.com
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
@@ -22,6 +23,29 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
