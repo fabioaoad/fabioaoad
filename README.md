@@ -23,8 +23,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 <p align="center">
 <a href="https://github.com/fabioaoad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioaoad&show_icons=true&locale=en&layout=compact&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ovi"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioaoad&show_icons=true&locale=en&layout=compact&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ovi"/>
 </a>
 </p>
 
