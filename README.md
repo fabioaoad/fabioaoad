@@ -25,6 +25,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
+[![Fabio-Martin-Aoad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabioaoad&theme=tokyonight)](https://git.io/praveenscience)
 <p align="center">
 <a href="https://github.com/fabioaoad">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
