@@ -20,8 +20,9 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 - 📫 How to reach me: fabioaoad@gmail.com
 
 
+<h2></h2>
 
------
+
 
 
 <p align="center">
@@ -32,7 +33,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </p>
 
 
------
+
 
 
 
