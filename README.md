@@ -7,6 +7,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 ![](https://komarev.com/ghpvc/?username=fabioaoad&color=blueviolet)
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
+
 
 
 - 🔭 I’m currently working on National University of Satiago del Estero
@@ -16,20 +18,6 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
-
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 
 
