@@ -22,6 +22,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/linkedin.svg" alt="fabioaoad" height="30" width="40" /></a>
+<a href="https://fabioaoad.github.io/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
+
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
