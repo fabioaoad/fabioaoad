@@ -1,5 +1,8 @@
-# Hi 👋,  I'm Fabio Martín Aoad
+# Hi, I'm Fabio Martín Aoad <img src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/Hi.gif" width="30px">
 
+
+
+👋
 
 I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I am characterized by my great motivation to continue honing skills and growing professionally. I fully trust in my ability to work in a group and thus carry out a successful project.
 
