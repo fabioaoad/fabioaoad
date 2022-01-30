@@ -36,17 +36,6 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
-[![Fabio-Martin-Aoad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabioaoad&&theme=redical&hide_border=true&area=true)](https://git.io/praveenscience)
-<p align="center">
-<a href="https://github.com/fabioaoad">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioaoad&show_icons=true&locale=en&layout=compact&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ovi"/>
-</a>
-</p>
-
-
-
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
@@ -72,7 +61,13 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
-
+[![Fabio-Martin-Aoad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabioaoad&&theme=redical&hide_border=true&area=true)](https://git.io/praveenscience)
+<p align="center">
+<a href="https://github.com/fabioaoad">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabioaoad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioaoad&show_icons=true&locale=en&layout=compact&title_color=07077a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ovi"/>
+</a>
+</p>
 
 
 
