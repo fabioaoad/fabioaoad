@@ -36,11 +36,12 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+[comment]: <> (<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>)
 
 
 
-<h2> Languages and Tools <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/helloworld.gif" width = 72px> </h2>
+[comment]: <> (<h2> Languages and Tools <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/helloworld.gif" width = 72px> </h2>)
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
