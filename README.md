@@ -19,7 +19,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 - 👯 I’m looking to collaborate on ANGULAR
 - 📫 How to reach me: fabioaoad@gmail.com
 
-<h2 align="left">Connect with me <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/handshake.gif" width = 32px> </h2>
+<h2 align="left">Connect with me <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/handshake.gif" width = 80px> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/linkedin.svg" alt="fabioaoad" height="30" width="40" /></a>
 <a href="https://fabioaoad.github.io/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
