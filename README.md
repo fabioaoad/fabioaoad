@@ -53,14 +53,21 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="33" height="33"/>
     </a>
-
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  width="33" height="33"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> 
+    </a>
+     <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com/es/" target="_blank"> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="java" width="43" height="43"/> 
+    
 
 </p>
 
 
-
+<h2>Statistics</h2> 
 
 [![Fabio-Martin-Aoad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabioaoad&&theme=redical&hide_border=true&area=true)](https://git.io/praveenscience)
 <p align="center">
@@ -70,8 +77,17 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=fabioaoad&theme=algolia" alt="adam-pw" /></a> </p>
 
 
+[comment]: <> (<p )
+
+[comment]: <> (align="left">)
+
+[comment]: <> (<img src="https://metrics.lecoq.io/fabioaoad?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&#41;" alt="adam-pw" /> )
+
+[comment]: <> (</p>)
 
 
 
