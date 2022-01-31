@@ -24,8 +24,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 <h2 align="left">Connect with me <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/handshake.gif" width = 80px> </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/linkedin.svg" alt="fabioaoad" height="30" width="40" /></a>
-<a href="https://fabioaoad.github.io/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://github.com/fabioaoad/fabioaoad/blob/main/svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin.svg" alt="fabioaoad" height="30" width="40" /></a>
+<a href="https://fabioaoad.github.io/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
 
 </p>
 
@@ -77,7 +77,7 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=fabioaoad&theme=algolia" alt="adam-pw" /></a> </p>
 
 
@@ -92,3 +92,25 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 
+[comment]: <> (Want to know more about me?)
+
+[comment]: <> (  <p>)
+
+[comment]: <> (    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/&#41;]&#40;https://www.linkedin.com/in/hgdsandakalum/"></a>)
+
+[comment]: <> (  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum&#41;]&#40;https://www.hackerrank.com/h_g_d_sandakalum"></a>)
+
+[comment]: <> (    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._&#41;]&#40;https://www.instagram.com/_.sanda._/"></a>)
+
+[comment]: <> (    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/h.g.d.sandakalum&#41;]&#40;https://www.facebook.com/h.g.d.sandakalum"></a>)
+
+[comment]: <> (    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum&#41;]&#40;https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>)
+
+[comment]: <> (  </p>)
+
+
+
+## Goodbye <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 🐍 
+<p align='center'>
+<img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/github-contribution-grid-snake.svg">
+</p>
