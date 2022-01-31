@@ -119,18 +119,18 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://twitter.com/FabioAoad" alt="Twitter"><img src=""></a>
-    <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" alt="Linkedin"><img src=""></a>
-    <a href="mailto:fabioaoad@gmail.com" alt="Contact me"><img src=""></a>
-    <a href="https://fabioaoad.github.io/" alt="My site"><img src=""></a>
+    <a href="https://twitter.com/FabioAoad" alt="Twitter"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin-fill.svg"></a>
+    <a href="mailto:fabioaoad@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/mail-fill.svg"></a>
+    <a href="https://fabioaoad.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/external-link-line.svg"></a>
   </p>
 
 
 
-<img src="" alt="bottom">
+<img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/ola.svg" alt="bottom">
 
 
 
