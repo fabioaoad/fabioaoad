@@ -122,10 +122,10 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://twitter.com/FabioAoad" alt="Twitter"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin-fill.svg"></a>
-    <a href="mailto:fabioaoad@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/mail-fill.svg"></a>
-    <a href="https://fabioaoad.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/external-link-line.svg"></a>
+    <a href="https://twitter.com/FabioAoad" alt="Twitter"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/twitter-fill.svg" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin-fill.svg" target="_blank"></a>
+    <a href="mailto:fabioaoad@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/mail-fill.svg" target="_blank"></a>
+    <a href="https://fabioaoad.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/external-link-line.svg" target="_blank"></a>
   </p>
 
 
