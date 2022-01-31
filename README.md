@@ -126,7 +126,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
     <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin-fill.svg" target="_blank"></a>
     <a href="mailto:fabioaoad@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/mail-fill.svg" target="_blank"></a>
     <a href="https://fabioaoad.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/external-link-line.svg" target="_blank"></a>
-  </p>
+    <a href="https://walink.co/828e20" alt="My site"><img src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/whatsapp-whats-app-svgrepo-com.svg" width="23" height="23" target="_blank"></a>  
+    </p>
 
 
 
