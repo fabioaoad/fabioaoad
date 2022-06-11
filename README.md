@@ -1,5 +1,5 @@
-# Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!, I'm Fabio Martín Aoad 
-:vulcan_salute:
+# Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!, I'm Fabio Martín Aoad  :vulcan_salute:
+
 
 
 [//]: # (<img src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/Hi.gif" width="20px">)
