@@ -1,4 +1,8 @@
-# Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!, I'm Fabio Martín Aoad   <img src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/Hi.gif" width="20px">
+# Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!, I'm Fabio Martín Aoad 
+:vulcan_salute:
+
+
+[//]: # (<img src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/Hi.gif" width="20px">)
 
 
 <h3 align="center">
@@ -10,7 +14,9 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 ![](https://komarev.com/ghpvc/?username=fabioaoad&color=blueviolet)
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 90px></h2>
+[//]: # (<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 90px></h2>)
+<h2> About Me </h2>
+
 
 
 <img align="right" width=100px height=100px alt="side_sticker" src="https://github.com/fabioaoad/fabioaoad/blob/main/gifs/move.gif" />
@@ -22,7 +28,8 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 - 👯 I’m looking to collaborate on ANGULAR
 - 📫 How to reach me: fabioaoad@gmail.com
 
-<h2 align="left">Connect with me <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/handshake.gif" width = 80px> </h2>
+[//]: # (<h2 align="left">Connect with me <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/handshake.gif" width = 80px> </h2>)
+<h2 align="left">Connect with me </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/fabio-martin-aoad-317293bb/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/linkedin.svg" alt="fabioaoad" height="30" width="40" /></a>
 <a href="https://fabioaoad.github.io/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/fabioaoad/fabioaoad/main/svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
@@ -41,7 +48,9 @@ I am Anl. in Information Systems. I have knowledge as a Full Stack developer. I 
 
 
 [comment]: <> (<h2> Languages and Tools <img src = "https://github.com/fabioaoad/fabioaoad/blob/main/gifs/helloworld.gif" width = 72px> </h2>)
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+[//]: # (<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>)
+<h2> Languages and Tools </h2>
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
